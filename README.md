@@ -1,6 +1,6 @@
 # Cafe Sales Data Cleaning (MySQL Project)
 
-This project demonstrates a beginner friendly approach to cleaning messy real-world sales data using only basic MySQL.
+This project demonstrates a beginner friendly approach to cleaning messy real world sales data using only basic MySQL.
 
 ## What I Did
 
